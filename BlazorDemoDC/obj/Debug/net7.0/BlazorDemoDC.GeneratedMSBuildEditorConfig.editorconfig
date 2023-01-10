@@ -1,0 +1,52 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazorDemoDC
+build_property.RootNamespace = BlazorDemoDC
+build_property.ProjectDir = D:\BlazorLabs\BlazorDemoDC\BlazorDemoDC\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\BlazorLabs\BlazorDemoDC\BlazorDemoDC
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/BlazorLabs/BlazorDemoDC/BlazorDemoDC/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BlazorLabs/BlazorDemoDC/BlazorDemoDC/Components/DynamicComponets/CountryLister.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEeW5hbWljQ29tcG9uZXRzXENvdW50cnlMaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BlazorLabs/BlazorDemoDC/BlazorDemoDC/Components/DynamicComponets/CustomerCounter.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEeW5hbWljQ29tcG9uZXRzXEN1c3RvbWVyQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BlazorLabs/BlazorDemoDC/BlazorDemoDC/Pages/DynamicComponetList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRHluYW1pY0NvbXBvbmV0TGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BlazorLabs/BlazorDemoDC/BlazorDemoDC/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BlazorLabs/BlazorDemoDC/BlazorDemoDC/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BlazorLabs/BlazorDemoDC/BlazorDemoDC/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BlazorLabs/BlazorDemoDC/BlazorDemoDC/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-2ab3inu6kv
+
+[D:/BlazorLabs/BlazorDemoDC/BlazorDemoDC/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-vgqt6wbas7
